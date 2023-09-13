@@ -1,5 +1,5 @@
 # Nhlalala_Manufacturing
-Steel Company Website Design
+Steel Company Website Design || First postgrad project I undertook as a freelancer
 
 I was tasked with the project of designing a website for a steel company located in Boksburg. For the specific company not a lot of jaascript was involved since the main purpose of the website is to display information in regards to how they are and what they do as well as infom clients on how to get in contact with them.
 
